@@ -5,5 +5,18 @@
 </a>
 
 
-[![overview](https://raw.githubusercontent.com/iudanet/iudanet/refs/heads/stats/overview.svg)](https://github.com/iudanet/iudanet) [![languages](https://raw.githubusercontent.com/iudanet/iudanet/refs/heads/stats/languages.svg)](https://github.com/iudanet/iudanet)
+
+
+        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iudanet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+    
+
+        
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iudanet)](https://git.io/streak-stats)
+
+    
+
+
+
 
